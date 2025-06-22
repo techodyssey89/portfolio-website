@@ -30,3 +30,14 @@ nav a {
 nav a:hover {
   color: #ffcc00;
 }
+
+section {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+section h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
