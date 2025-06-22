@@ -4,6 +4,15 @@ body {
   margin: 2rem;
 }
 
+/* Header Hover Effects */
+
+header h1:hover {
+  color: #ffcc00;
+  text-shadow: 0 0 8px #ffcc00;
+  transition: 0.3s ease;
+}
+
+
 nav {
   background-color: #222;
   padding: 15px;
