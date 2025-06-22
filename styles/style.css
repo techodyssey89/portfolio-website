@@ -4,6 +4,11 @@ body {
   margin: 2rem;
 }
 
+body {
+  background: linear-gradient(to bottom, #0f0f0f, #1a1a1a);
+}
+
+
 nav {
   background-color: #222;
   padding: 15px;
@@ -52,8 +57,5 @@ body {
   }
 }
 
-body {
-  background: linear-gradient(to bottom, #0f0f0f, #1a1a1a);
-}
 
 
