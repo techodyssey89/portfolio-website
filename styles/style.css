@@ -9,11 +9,11 @@ body {
 }
 
 
-
 nav {
   background-color: #222;
   padding: 15px;
   text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 nav ul {
@@ -46,7 +46,7 @@ section h2 {
   font-size: 2rem;
   margin-bottom: 10px;
 }
-}
+
 
 
 
