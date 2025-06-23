@@ -5,8 +5,9 @@ body {
   background: linear-gradient(to bottom, #f9f9f9, #eaeaea);
   color: #222;
   opacity: 0;
-
+  animation: fadeIn 1s ease-in forwards;
 }
+
 
 
 nav {
@@ -46,6 +47,13 @@ section h2 {
   font-size: 2rem;
   margin-bottom: 10px;
 }
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
 
 
 
